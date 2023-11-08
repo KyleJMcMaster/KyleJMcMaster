@@ -16,7 +16,7 @@ I'm a software engineering student at McMaster University with a minor in stats 
 
 <H3>Here's where you can find me:</H3>
 
-<a href="linkedin.com/in/kylemcmaster"><b>Linkedin</b></a>
+<a href="linkedin.com/in/kylemcmaster/"><b>Linkedin</b></a>
 
 
 <!--
