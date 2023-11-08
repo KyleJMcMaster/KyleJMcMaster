@@ -14,7 +14,7 @@ I'm a software engineering student at McMaster University with a minor in stats 
   </li>
 </ul>
 
-<H3>Here's where you can find me:</H3>
+<H3>Here's where else you can find me:</H3>
 
 <a href="https://linkedin.com/in/kylemcmaster/"><b>Linkedin</b></a>
 
