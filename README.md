@@ -1,6 +1,6 @@
 <H1> Welcome to my GitHub 👋</H1>
 <p align = "center">
-I'm a software engineering student at McMaster University with a minor in stats and a passion for artificial intelligence 🤖
+I'm a software engineering student at McMaster University with a minor in math and a passion for artificial intelligence 🤖
 </p>
 
 <H3>Here's what I'm working on:</H3>
