@@ -1,4 +1,7 @@
-### Hi there 👋
+#### Kyle McMaster
+\<p align = "center">
+I'm a software engineering student at McMaster University with a minor in stats and a passion for artificial intelligence 🤖
+\<p>
 
 <!--
 **KyleJMcMaster/KyleJMcMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
