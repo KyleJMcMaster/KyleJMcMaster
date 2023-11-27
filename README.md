@@ -10,7 +10,7 @@ I'm a software engineering student at McMaster University with a minor in math a
     <a href="https://github.com/KyleJMcMaster/twenty48AI"><b>2048 AI</b></a>: I'm comparing traditional artificial intelligence techniques to maximize the performance of an AI agent. So far, I've reached the 4096 tile by combining expectimax with a heuristic that rewards strategies that move large tiles towards the same corner. See if you can beat me!
   </li>
   <li>
-    <a href="https://www.cbc.ca/news/canada/calgary/critical-map-making-1.6768269"><b>Borderline Project</b></a>: I'm working with Jessica Thompson and team from the University of Waterloo to explore the relationship between sound and socioeconomic indicators in urban environments. My contribution to the team is through the app, where I have improved the scalability and reliability of serving Canada-wide maps and datasets. Have a look on IOS: <a href="https://apps.apple.com/ca/app/borderline/id1348417625"><b>Borderline App</b></a>
+    <a href="https://www.cbc.ca/news/canada/calgary/critical-map-making-1.6768269"><b>Borderline Project</b></a>: I'm working with Jessica Thompson and team from the University of Waterloo to explore the relationship between sound and socioeconomic indicators in urban environments. My contribution to the project is through the app, where I have improved the scalability and reliability of serving Canada-wide maps and datasets. Have a look on IOS: <a href="https://apps.apple.com/ca/app/borderline/id1348417625"><b>Borderline App</b></a>
   </li>
 </ul>
 
