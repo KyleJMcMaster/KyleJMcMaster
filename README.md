@@ -7,7 +7,7 @@ I'm a software engineering student at McMaster University with a minor in math a
 
 <ul>
   <li>
-    <a href="https://github.com/KyleJMcMaster/image_upscaler"><b>CUDA Image Processing</b></a>: This is a new project I've started where I am working on implementing traditional image processing techniques in a SIMD architecture by making use of my GPU using CUDA & c++. So far, I've been able to implementing a color shifter and gaussian blur using fft + convolution. In the future, I plan to work on additional filters, edge detection, and eventually AI upscaling.
+    <a href="https://github.com/KyleJMcMaster/image_upscaler"><b>CUDA Image Processing</b></a>: This is a new project I've started where I am working on implementing traditional image processing techniques in a SIMD architecture by making use of my GPU using CUDA & c++. So far, I've been able to implement a color shifter and gaussian blur using fft + convolution. In the future, I plan to work on additional filters, edge detection, and eventually AI upscaling.
   </li>
   <li>
     <a href="https://www.cbc.ca/news/canada/calgary/critical-map-making-1.6768269"><b>Borderline Project</b></a>: I'm working with Jessica Thompson and team from the University of Waterloo to explore the relationship between sound and socioeconomic indicators in urban environments. My contribution to the project is through the app, where I have improved the scalability and reliability of serving Canada-wide maps and datasets. Have a look on IOS: <a href="https://apps.apple.com/ca/app/borderline/id1348417625"><b>Borderline App</b></a>
