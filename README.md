@@ -17,7 +17,7 @@ I'm a software engineering student at McMaster University with a minor in math a
 <H3>Some projects I've mostly wrapped up:</H3>
 <ul>
   <li>
-    <a href="https://github.com/KyleJMcMaster/twenty48AI"><b>2048 AI</b></a>: I'm comparing traditional artificial intelligence techniques to maximize the performance of an AI agent. So far, I've reached the 4096 tile by combining expectimax with a heuristic that rewards strategies that move large tiles towards the same corner. See if you can beat me!
+    <a href="https://github.com/KyleJMcMaster/twenty48AI"><b>2048 AI</b></a>: I'm comparing traditional artificial intelligence techniques to maximize the performance of an AI agent. So far, I've reached the 2048 tile in 93% of games by combining expectimax with a heuristic that rewards strategies that move large tiles towards the same corner. See if you can beat me!
   </li>
 </ul>
 
